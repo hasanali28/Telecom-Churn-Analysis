@@ -83,3 +83,5 @@ Random forest has the best results for our problem. Random Forest has the best a
 and lowest false negative rate and also lowest false positive rate.Hence we’ll choose
 Random Forest.
 
+### ROC Curve
+![roc_curve](https://user-images.githubusercontent.com/20225277/46949178-28a34900-d09e-11e8-97af-231a128c66bd.png)
